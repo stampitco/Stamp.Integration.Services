@@ -5,7 +5,7 @@ This repository contains a library `Stamp.Integration.Services` which can be use
 Stamp.Integration.Services
 -----
 
-This project contains two classes `StampMerchantService` and `StampInvoicingService` which provides a wrapper for the APIs described in `Stamp Integration APIs.pdf`.
+This project contains two classes `StampMerchantService` and `StampInvoicingService` which provides a wrapper for the APIs described in [Stamp Integration APIs.pdf](https://github.com/stampitco/Stamp.Integration.Services/blob/develop/Stamp%20Integration%20APIs.pdf).
 
 TestConsole
 -----
